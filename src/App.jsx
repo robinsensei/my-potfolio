@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import Header from './components/header'
-import Hero from './components/Hero'
-import About from './components/About'
+import Header from './components/header.jsx'
+import Hero from './components/Hero.jsx'
+import About from './components/About.jsx'
 
 function App() {
   
